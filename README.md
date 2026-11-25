@@ -45,7 +45,7 @@ Telecom companies lose revenue whenever a customer cancels their service, and ke
 
 ## c. GitHub Repository
 
-https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+[https://github.com/YOUR-USERNAME/YOUR-REPO-NAME](https://github.com/Anjali-pandit05113/telco-churn-classification/tree/main)
 
 Repository contents:
 
